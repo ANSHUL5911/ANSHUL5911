@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Anshul Singh and I'm a Web Developer</h2>
+<h2 align="left">Hi 👋! My name is Anshul Singh Jadon and I'm a Web Developer</h2>
 
 
 - 🔭 I’m currently working on **IBM HackXchange 2025 project**
