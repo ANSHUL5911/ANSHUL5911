@@ -20,12 +20,6 @@
 
 
 
-## 🛠 My Stats
-
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=g3root&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="g3root stats card" /></p>
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=g3root&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true&layout=compact" alt="g3root stats card" /></p>
 
 
 ###
@@ -50,16 +44,11 @@
 </div>
 
 ###
-## 🏆 Trophies
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=g3root" alt="g3root" />
-</a>
-</p>
+
 
 
 ###
-## Connect Us
+## 🔗 Connect Us
 
 <div align="center">
   <a href="https://linkedin.com/in/anshulsinghjadon" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
