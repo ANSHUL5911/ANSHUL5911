@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Anshul Singh Jadon and I'm a Web Developer</h2>
 
 
-- 🔭 I’m currently working on **IBM HackXchange 2025 project**
+- 🔭 I’m currently working on **SIH Hackathon 2025 project**
 
 - 🌱 I’m currently learning **Web developement**
 
